@@ -1,9 +1,9 @@
 {
-  "name": "eslint-plugin-xxxx",
+  "name": "eslint-plugin-react-jsx-props-spread-first",
   "version": "1.0.0",
-  "description": "",
+  "description": "This ESLint plugin enforces that spread operators in React JSX props appear at the beginning of the props list.",
   "engines": {
-    "node": ">=8.10.0"
+    "node": ">=18.0.0"
   },
   "main": "dist/index.js",
   "files": [
@@ -61,19 +61,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/???/eslint-plugin-xxxx.git"
+    "url": "git+https://github.com/huuyafwww/eslint-plugin-react-jsx-props-spread-first"
   },
   "keywords": [
-    "typescript",
-    "template",
     "eslint",
-    "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "react-props",
+    "jsx-props",
+    "spread-first"
   ],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/???/eslint-plugin-xxxx/issues"
+    "url": "https://github.com/huuyafwww/eslint-plugin-react-jsx-props-spread-first/issues"
   },
-  "homepage": "https://github.com/???/eslint-plugin-xxxx#readme"
+  "homepage": "https://github.com/huuyafwww/eslint-plugin-react-jsx-props-spread-first#readme"
 }

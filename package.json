@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huuyafwww/eslint-plugin-react-jsx-props-spread-first"
+    "url": "https://github.com/huuyafwww/eslint-plugin-react-jsx-props-spread-first"
   },
   "keywords": [
     "eslint",
@@ -65,7 +65,7 @@
     "jsx-props",
     "spread-first"
   ],
-  "author": "",
+  "author": "huuyafwww <huuya1234fwww@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/huuyafwww/eslint-plugin-react-jsx-props-spread-first/issues"

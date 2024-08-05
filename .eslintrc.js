@@ -10,14 +10,4 @@ module.exports = {
     ecmaVersion: 12,
     sourceType: 'module',
   },
-  overrides: [
-    {
-      files: 'scripts/**/*.ts',
-      rules: {
-        'no-console': 'off',
-        '@typescript-eslint/no-var-requires': 'off',
-        '@typescript-eslint/no-namespace': 'off',
-      },
-    },
-  ],
 };

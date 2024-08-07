@@ -21,8 +21,7 @@ jobs:
         run: npm run lint
 
       - name: Test
-        # TODO: remove '--passWithNoTests' option
-        run: npm test --passWithNoTests
+        run: npm test
         env:
           CI: true
 
